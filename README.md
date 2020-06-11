@@ -44,6 +44,3 @@ chmod u+x setup.sh && ./setup.sh
 ### Training Models
 
 The training scripts used to train the segmentation models are located in the [matlab](matlab) directory. Execute each of them to train segmentation models on the datasets generated above. 
-
-
-
